@@ -18,12 +18,6 @@ https://www.ludiflex.com/how-to-make-responsive-portfolio-website-using-html-css
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
-    <a href="https://www.youtube.com/@mariocosta-ao?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a>
     <a href="https://www.youtube.com/@mariocosta-ao">
         <img 
             alt="youtube views" 
