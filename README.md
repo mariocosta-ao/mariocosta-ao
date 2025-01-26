@@ -1,5 +1,3 @@
-https://www.ludiflex.com/how-to-make-responsive-portfolio-website-using-html-css-and-javascript/
-
 # 👩🏻‍💻 Mário Costa
 
 <!--**`Especialista em Programação Web`**-->
