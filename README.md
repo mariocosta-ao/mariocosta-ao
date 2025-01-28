@@ -10,7 +10,7 @@
 </p>
 <!-- Social icons section -->
 <p align="left">
-    <a href="https://www.youtube.com/@mariocosta-ao?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/mariocosta-ao/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
