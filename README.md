@@ -2,7 +2,7 @@
 
 <!--**`Especialista em Programação Web`**-->
 <p align="start">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ralewey&pause=1000&width=435&lines=IT+Technician;IT+Support+Specialist;+PHP%2FLaravel+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ralewey&pause=1000&width=435&lines=Web+Developer;IT+Technician;IT+Support+Specialist;+PHP%2FLaravel+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="justify">
