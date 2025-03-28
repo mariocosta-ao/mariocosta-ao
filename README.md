@@ -1,12 +1,3 @@
-<style>
-    .about{
-        text-align: justify;
-
-    }
-    h1{
-        font-family: "arial";
-    }
-</style>
 <h1>Hi 👋, I'm Mário Costa 👩🏻‍💻</h1>
 <h3>A Web developer, trainer and occasional writer with a solid experience in the creation, integration and extensibility of web applications.</h3>
 
