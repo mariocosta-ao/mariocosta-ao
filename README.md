@@ -194,14 +194,6 @@
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariocosta-ao&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Mario's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariocosta-ao&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true "/>
-    </a>
-
 <h2>Products and Tools 🤖</h2>
 
 - 📱 [Jobs Maneger System](http://jobs-ao.net/) - Innovative system for managing jobs in Angola
