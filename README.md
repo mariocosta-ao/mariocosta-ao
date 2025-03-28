@@ -179,7 +179,10 @@
 <p>
     <a href="https://github.com/mario-costa/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mario's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mariocosta-ao&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="Mario's streak"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=mariocosta-ao&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
 </p>
 
@@ -201,5 +204,6 @@
 
 <h2>Products and Tools 🤖</h2>
 
-- 📱 [Huawei Lead23](https://lead23.itel.gov.ao/) Main portal for applications to the professional training project belonging to Huawei...
-- 🚀 [Jobs Maneger System](http://jobs-ao.net/) Innovative system for managing events in Angola
+- 📱 [Jobs Maneger System](http://jobs-ao.net/) - Innovative system for managing jobs in Angola
+
+- 🚀 [WIN MAC - Website](http://win-mac-net/) - Win Mac's website redesign.
