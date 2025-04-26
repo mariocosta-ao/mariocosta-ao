@@ -78,4 +78,5 @@ Sou um profissional de **Tecnologia da Informaçã**o com foco em **Desenvolvime
 ## 🛠 Produtos e Ferramentas Desenvolvidos
 
 - 📱 [Jobs Manager System](http://jobs-ao.net/) – Sistema inovador para gestão de empregos em Angola.
-- 🚀 [WIN MAC - Website](http://win-mac-net/) – Redesign do site da WIN MAC.
+- 🚀 [Win Mac - Website](https://win-mac-net.vercel.app) – Proposta de Redesign do site institucional da WIN MAC.
+- 🚀 [Win Mac - Loja](https://win-mac-loja.vercel.app) – Proposta de Redesign de loja online da WIN MAC.

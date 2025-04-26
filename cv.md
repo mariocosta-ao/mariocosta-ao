@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional de Tecnologia da Informação com foco em Desenvolvimento Web e Infraestrutura de Redes. Tenho experiência sólida como Técnico de Suporte, Desenvolvedor Web e Especialista em Marketing Digital. Atualmente, estou a aprofundar meus conhecimentos em JavaScript, Laravel, Segurança da Informação e DevOps, com o objetivo de tornar-me Full Stack Developer.
+Sou um profissional de **Tecnologia da Informaçã**o com foco em **Desenvolvimento Web** e **Infraestrutura de Redes**. Tenho experiência sólida como **Técnico de Suporte**, **Desenvolvedor Web** e **Especialista em Marketing Digital**. Atualmente, estou a aprofundar meus conhecimentos em **JavaScript**, **Laravel**, **Segurança da Informação** e **DevOps**, com o objetivo de tornar-me **Full Stack Developer** capaz de aprender, inovar, colaborar e oferecer soluções tecnológicas de alta qualidade. 
 
 ---
 
@@ -96,8 +96,6 @@ Sou um profissional de Tecnologia da Informação com foco em Desenvolvimento We
 - **Automação de Infraestrutura:** Docker, Kubernetes, Terraform, Ansible.
 - **Cloud:** Google Cloud, AWS, Azure.
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-
----
 
 ---
 
