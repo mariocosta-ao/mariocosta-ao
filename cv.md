@@ -1,57 +1,93 @@
-**Mário Albertino Da Costa**  
 
-Celular: (+244) 944631142 | E-mail: mariocosta2760@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/mariocosta-ao/) | Lunada, Angola  
+# Mário Albertino Da Costa
 
----
-
-### Objetivo
-
-Busco novas oportunidades onde posso aplicar minha vasta experiência adquirida ao longo de 13 anos na Globo, com foco em **QA**, **DevOps** e **SRE**. Estou preparado para contribuir com soluções inovadoras e de alta qualidade, superando desafios técnicos e impulsionando o sucesso de futuros projetos.
-
-### Resumo Profissional
-
-Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**, com uma sólida trajetória na Globo, onde desempenhei papéis chave em testes de software, automação e infraestrutura. Minhas áreas de expertise incluem a criação e execução de testes manuais e automatizados, implementação de práticas DevOps e SRE, e otimização de desempenho e confiabilidade das aplicações.
-
-- **QA:** Expertise em Garantia da Qualidade, realizando testes funcionais, automatizados e de performance.
-- **DevOps:** Profundo conhecimento em infraestrutura, automação de pipelines e integração contínua.
-- **SRE:** Participação na implementação de SLI/SLO e práticas de monitoramento, visando resiliência e alta disponibilidade.
-
-### Principais Realizações
-
-- **QA:** Contribuí para a qualidade das principais aplicações da Globo, sendo fundamental no ciclo de vida de desenvolvimento de software.
-- **DevOps:** Implantei práticas que melhoraram a colaboração entre equipes de desenvolvimento e operações, garantindo eficiência na entrega contínua de software.
-- **SRE:** Colaborei na implementação de práticas de observabilidade, SLI/SLO, e recuperação de desastres, garantindo sistemas mais resilientes e de alto desempenho.
+📍 Luanda, Angola  
+[📧 mariocosta2760@gmail.com](mailto:mariocosta2760@gmail.com)  
+📞 (+244) 944631142 | (+244) 932010611  
+🌐 [mariocosta-ao.vercel.app](https://mariocosta-ao.vercel.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mariocosta-ao/)
 
 ---
 
-### Competências Técnicas
+## 👨‍💻 Sobre Mim
 
-**QA (Quality Assurance)**  
-
-- Execução de testes funcionais, automatizados e exploratórios.
-- Avaliação de performance de aplicações Web.
-- Ferramentas: **Selenium**, **Cypress**, **Robot Framework**, **Postman**, **k6**, **Testkube**.
-
-**Testes de Chaos**  
-
-- Simulação de falhas de serviço, latência, interrupções de rede e redirecionamento para avaliar a resiliência dos sistemas.
-- Ferramenta: **Gremlin**.
-
-**DevOps**  
-
-- Implementação de práticas **DevOps** e automação de pipelines.
-- Infraestrutura como código com **Vagrant**, **Ansible**, **Terraform**, **Docker**, **Kubernetes**, **Prometheus**, **Grafana**.
-- Ferramentas CI/CD: **GitLab**, **GitHub**.
-
-**SRE**  
-
-- Implementação de práticas de **monitoramento** para garantir a disponibilidade e desempenho das aplicações.
-- Uso de ferramentas como **Prometheus**, **Grafana**, **DataDog**.
+Sou um profissional de Tecnologia da Informação com foco em Desenvolvimento Web e Infraestrutura de Redes. Tenho experiência sólida como Técnico de Suporte, Desenvolvedor Web e Especialista em Marketing Digital. Atualmente, estou a aprofundar meus conhecimentos em JavaScript, Laravel, Segurança da Informação e DevOps, com o objetivo de tornar-me Full Stack Developer.
 
 ---
 
-### Hard Skills
+## 🎓 Educação
+
+- **Licenciatura em Engenharia Informática**  
+  Universidade Metodista de Angola  
+  _Out. 2023 – Atual_
+
+- **Técnico Médio de Informática**  
+  Instituto de Telecomunicações – ITEL  
+  _Fev. 2018 – Jun. 2023_  
+  **Nota final**: 15 valores  
+  **Tese**: Sistema de Gestão de Candidaturas
+
+---
+
+## 💼 Experiência Profissional
+
+### Técnico de Suporte de Rede  
+
+**WIN MAC, LDA** — _Ago. 2023 – Atual_  
+
+- Configuração e monitoramento de redes
+- Gerenciamento de roteadores, switches e access points
+- Diagnóstico de falhas e suporte técnico
+- Implementação de práticas de segurança
+- Comunicação técnica com usuários
+
+### Técnico de Marketing  
+
+**WIN MAC, LDA** — _Ago. 2023 – Atual_  
+
+- Estratégias de marketing digital
+- Análise de métricas e campanhas
+- Criação de conteúdo e email marketing
+
+### Desenvolvedor Web  
+
+**Instituto de Telecomunicações - ITEL** — _Mai. 2023 – Jul. 2023_  
+
+- Desenvolvimento de interfaces HTML/CSS/JS
+- Integração com APIs e Git
+- Otimização de performance e acessibilidade
+
+### Técnico de Help Desk / IT Support Specialist  
+
+**Organizações Transdoidinha (SU), LDA** — _Mar. 2021 – Mai. 2023_  
+
+- Suporte técnico em hardware/software
+- Redes locais e sistemas de segurança
+- Treinamento de usuários
+
+### Estagiário de Redes e Infraestrutura  
+
+**Instituto de Telecomunicações - ITEL** — _Dez. 2021 – Jun. 2022_  
+
+- Instalação e configuração de equipamentos de rede
+- Monitoramento e documentação técnica
+- DNS, DHCP, logs e segurança de rede
+
+---
+
+## 🎯 Habilidades Técnicas
+
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript (ES6), UI/UX Design  
+- **Backend**: PHP, Laravel, MySQL  
+- **Redes e Infraestrutura**: DNS, DHCP, VLANs, roteamento, segurança  
+- **Sistemas Operacionais**: Windows Server, Linux (Ubuntu/CentOS)  
+- **Ferramentas**: Git, Meta Business Suite  
+- **Segurança**: Boas práticas para aplicações web, firewall e antivírus  
+- **Outros**: Otimização de performance, Acessibilidade Web
+
+---
+
+### 💡 Hard Skills
 
 - **Sistemas Operacionais:** Linux, Windows.
 - **Linguagens de Programação:** Python, Shell Script, JavaScript.
@@ -63,53 +99,36 @@ Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**
 
 ---
 
-### Soft Skills
+---
 
+## 🧠 Soft Skills
+
+- Criatividade  
+- Atenção aos detalhes  
+- Resolução de problemas  
+- Trabalho em equipe  
+- Gestão de tempo  
+- Comunicação eficaz  
+- Adaptabilidade  
+- Pensamento crítico  
 - Comunicação eficaz, colaboração em equipe e capacidade de adaptação.
 - Inteligência emocional, liderança e criatividade.
 - Capacidade de gerir conflitos e promover um ambiente de trabalho produtivo.
 
 ---
 
-### Formação Acadêmica
+## 📜 Certificações e Cursos
 
-- **PUC-RJ** – Bacharelado em Análise e Desenvolvimento de Sistemas (Concluído em 1994).
-
----
-
-### Cursos e Certificações
-
-**Agile & QA**  
-
-- **Organização de equipes ágeis**, Alura (04/2022)
-
-- **Fundamentos de Quality Assurance**, Alura (09/2021)  
-- **Cypress: Automação de testes E2E**, Alura (04/2022)
-- **Qualidade de Software**, FEST (03/2025)
-- **PO/SM**, FEST (04/2025)
-
-**DevOps & Infraestrutura**  
-
-- **Google Certified Associate Cloud Engineer**, Alura (02/2022)  
-- **Terraform: Automatizando a infraestrutura na nuvem**, Alura (04/2021)  
-- **Kubernetes: Deployments e escalabilidade**, Alura (05/2021)
-
-**Cloud**  
-
-- **AWS e Azure**: Cursos práticos sobre **AWS EC2** e **Microsoft Azure Administrator (AZ-104)**.
-
-**Programação & Scripting**  
-
-- **Python 3: Introdução à orientação a objetos**, Alura (08/2021)  
-- **Shell Scripting**, Udemy (10/2021)
-
-**Monitoramento & Segurança**  
-
-- **Grafana e Telegraf: Monitoramento em tempo real**, Alura (04/2021)  
-- **OWASP Top 10: Security**, Alura (12/2021)
+- **Linux Security Basics for Beginners** (2024)  
+- **Marketing Digital e Gestão de Mídias Sociais** (2023)  
+- **Desenvolvimento Web**: HTML5, CSS3, Bootstrap 5, PHP/Laravel, JS, MySQL (2022–2023)  
+- **CCNA (Routing and Switching)** (2021)  
+- **CCNA2v7 & CCNA1v7** (2021)  
+- **IT Essentials – Cisco** (2021)
 
 ---
 
-### Idiomas  
+## 🌍 Idiomas
 
-- **Inglês:** Nível técnico, com fluência em leitura e interpretação de documentação.
+- **Português** – Nativo  
+- **Inglês** – A2 (Básico)

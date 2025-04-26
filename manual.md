@@ -1,97 +1,115 @@
-# Como Personalizar Seu Perfil no GitHub
+Aqui está **o seu tutorial adaptado** ao seu estilo, ao seu nome e perfil (`mariocosta-ao`), tudo atualizado e revisado para você usar no seu repositório ou README:
 
-**1. Criando o Repositório**
+---
 
-Para começar, é necessário criar um repositório com o mesmo nome do seu perfil no GitHub.
+```markdown
+# 🎨 Como Personalizar o Meu Perfil no GitHub
 
-- **Perfil**: [https://github.com/rfahham](https://github.com/rfahham)
-- **Repositório**: `rfahham` (o nome deve ser idêntico ao do seu perfil)
+## 1. Criando o Repositório
 
-Ao criar o repositório, siga estes passos:
+Para começar, crie um repositório com o mesmo nome do seu perfil GitHub:
 
-- Marque a opção **Público**.
+- **Perfil**: [https://github.com/mariocosta-ao](https://github.com/mariocosta-ao)
+- **Repositório**: `mariocosta-ao`
+
+**Passos**:
+- Marque como **Público**.
 - Selecione **Add a README file**.
 - Clique em **Create repository**.
 
-Agora, você verá o arquivo `README.md`, que é onde você pode personalizar o seu perfil.
+Pronto! Agora você terá um `README.md` onde poderá personalizar o seu perfil.
 
 ---
 
-**2. Editando o README**
+## 2. Editando o README
 
-O arquivo `README.md` permite que você adicione informações sobre você mesmo. Uma das primeiras coisas que você pode fazer é editar a frase de apresentação, como por exemplo:
-
-```markdown
-Hi there, I'm Ricardo Fahham 👋
-```
-
-Ou Crie uma animação com o [Typing](https://readme-typing-svg.demolab.com/demo/)
+O `README.md` é onde você descreve quem você é. Pode começar assim:
 
 ```markdown
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Ricardo+Fahham+%F0%9F%91%8B)](https://git.io/typing-svg)
+Hi there, I'm Mário Costa 👋
 ```
 
-Substitua por algo mais pessoal que tenha a ver com você! Aqui estão algumas sugestões de como você pode personalizar seu perfil com informações sobre sua carreira e localidade:
+Ou utilizar uma animação de digitação:
 
-- 💻 **QA / DevOps / SRE**
-- 🏡 **Brazilian, Based in Petrópolis, RJ**
+```markdown
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Mário+Costa+%F0%9F%91%8B)](https://git.io/typing-svg)
+```
+
+Adicione também informações importantes sobre você:
+
+- 💻 **Fullstack Developer | Network & Security Enthusiast**
+- 🏡 **Angolan, based in Luanda**
 - 🌎 **Find me around the web**
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
-- 📫 **rfahham@g.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariocosta-ao/)
+- 📫 **mariocosta2760@gmail.com**
+- 🌐 [Meu Portfólio](https://mariocosta-ao.vercel.app/)
 
-Você pode também adicionar emojis para tornar o seu perfil mais visual. Para adicionar emojis, basta copiá-los de qualquer lugar, como o WhatsApp (use `CTRL+C` para copiar e `CTRL+V` para colar no GitHub).
+💡 Use **emojis** para deixar o perfil mais visual!
 
 ---
 
-**3. Adicionando Cards**
+## 3. Adicionando Cards de Estatísticas
 
-Você pode adicionar **cards** personalizados ao seu perfil para exibir informações como estatísticas de contribuições no GitHub. Existem várias opções, e uma delas é o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-Exemplo de código para adicionar:
+Você pode mostrar seu desempenho no GitHub com cards como estes:
 
 ```markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Mário's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocosta-ao&theme=tokyonight&show_icons=true&count_private=true)
 ```
 
-Esse código irá gerar um card exibindo suas estatísticas de GitHub.
+Para mostrar as linguagens mais usadas:
+
+```markdown
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocosta-ao&layout=compact&theme=tokyonight)
+```
 
 ---
 
-**4. Adicionando Badges**
+## 4. Adicionando Badges
 
-Badges (ou emblemas) são ótimos para destacar suas conquistas, habilidades ou contribuições.
+Badges são ótimos para destacar habilidades ou certificações.
 
-Acesse [este link](https://github.com/Ileriayo/markdown-badges) para encontrar badges personalizados para o seu perfil. Basta copiar o código Markdown e colá-lo no seu `README.md`.
+Acesse [Markdown Badges](https://github.com/Ileriayo/markdown-badges) para escolher e copiar badges incríveis para seu perfil.
+
+Exemplo:
+
+```markdown
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+```
 
 ---
 
-**5. Adicionando Ícones**
+## 5. Adicionando Ícones de Tecnologias
 
-Você pode adicionar ícones ao seu perfil para representar suas tecnologias e ferramentas favoritas. Aqui estão duas boas fontes para encontrar ícones:
-
-- [DevIcon](https://devicon.dev/)
-- [Simple Icons](https://simpleicons.org/)
-
-Exemplo de código para adicionar ícones ao seu perfil:
+Mostre suas tecnologias favoritas:
 
 ```html
 <div style="display: inline_block">
-  <img width="50" height="50" align="center" alt="K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>
-  <img width="50" height="50" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
-  <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
-  <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
+  <img width="40" height="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img width="40" height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width="40" height="40" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img width="40" height="40" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img width="40" height="40" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img width="40" height="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img width="40" height="40" alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+  <img width="40" height="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+  <img width="40" height="40" alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 </div>
 ```
 
-Isso resultará em uma linha de ícones, como mostrado abaixo:
+---
 
-<div style="display: inline_block">
-  <img width="50" height="50" align="center" alt="K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>
-  <img width="50" height="50" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
-  <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
-  <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
-</div>
+## 6. Exemplos Avançados
+
+Você também pode incluir:
+
+- **Contadores de Visitantes**
+- **Gráficos de Contribuições**
+- **Animações SVG**
+- **Widgets de YouTube, Twitter e LinkedIn**
+
+Explore o GitHub Readme Generator e outros projetos incríveis para deixar seu perfil ainda mais top!
 
 ---
 
-Essas são algumas das formas de personalizar seu perfil no GitHub e deixá-lo mais atrativo e informativo. Seja criativo e divirta-se!
+🎯 **Conclusão**: O seu perfil no GitHub é como seu cartão de visita online. Personalize, mantenha atualizado e mostre ao mundo o seu talento! 🚀
